@@ -28,7 +28,7 @@
     },
     "require": {
         "php": "^8.0",
-        "google/cloud-translate": "^1.7.4",
+        "google/cloud-translate": "^1.18.0",
         "illuminate/support": "^9|^10|^11"
     },
     "require-dev": {
